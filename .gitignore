@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env*
+*.sqlite3*
+*.db*
+*.pt
+*.pth
+*.onnx
+local-data/
+local-cache/
+dist/
+objects/
+backups/

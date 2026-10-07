@@ -1,0 +1,4 @@
+interface:
+  display_name: "道路病害科研长期记忆"
+  short_description: "保存科研证据与模型实验，追溯历史版本和权重，并支持跨任务调用与展示"
+  default_prompt: "使用 $road-disease-memory 找回本课题相关历史案例与可比较的模型实验，说明证据来源，并保存本次任务的调用记录。"

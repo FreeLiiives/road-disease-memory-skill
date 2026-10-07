@@ -1,0 +1,12 @@
+{
+  "kind": "inspection",
+  "project": "example-project",
+  "title": "模拟巡检：疑似坑槽",
+  "summary": "仅用于学习记录格式，非真实巡检。未测量尺寸或深度。",
+  "observed_at": "2026-10-07T10:00:00+08:00",
+  "review": "provisional",
+  "road": "示例路段",
+  "diseases": ["坑槽"],
+  "sources": [{"uri": "demo://synthetic/inspection", "note": "合成演示资料，无真实工程结论"}],
+  "payload": {"measurement_status": "unknown"}
+}
